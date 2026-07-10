@@ -41,17 +41,11 @@
 
 ## 1. Kronologi & Konteks (Sub-CPMK 1)
 
-*Bagian ini berkontribusi pada Sub-CPMK 1 (Kronologi & Etika).*
-*Kontribusi oleh: **Rakha Hafidz Fauzan** (NIM: 4524210082)*
-
 <!-- TODO: Silakan Rakha Hafidz Fauzan isi bagian Kronologi & Konteks di sini -->
 
 ---
 
 ## 2. Fakta Kunci & Catatan Transparansi (Sub-CPMK 3)
-
-*Bagian ini berkontribusi pada Sub-CPMK 3 (Stakeholder & Kontrol).*
-*Kontribusi oleh: **Muhammad Fathir Alfarqi** (NIM: 4524210064)*
 
 Perkembangan Generative AI memicu berbagai klaim industri yang perlu dipilah antara fakta terverifikasi dan informasi yang disengketakan:
 
@@ -72,17 +66,11 @@ Perkembangan Generative AI memicu berbagai klaim industri yang perlu dipilah ant
 
 ## 3. Pemetaan Pemangku Kepentingan / Stakeholders (Sub-CPMK 3)
 
-*Bagian ini berkontribusi pada Sub-CPMK 3 (Stakeholder & Kontrol).*
-*Kontribusi oleh: **Belvaria Hendriyani** (NIM: 4524210078)*
-
 <!-- TODO: Silakan Belvaria Hendriyani isi bagian Pemetaan Pemangku Kepentingan di sini -->
 
 ---
 
 ## 4. Analisis Empat Teori Etika (Sub-CPMK 1)
-
-*Bagian ini berkontribusi pada Sub-CPMK 1 (Kronologi & Etika).*
-*Kontribusi oleh: **Belvaria Hendriyani** (NIM: 4524210078)*
 
 <!-- TODO: Silakan Belvaria Hendriyani isi bagian Analisis Empat Teori Etika di sini -->
 
@@ -90,17 +78,11 @@ Perkembangan Generative AI memicu berbagai klaim industri yang perlu dipilah ant
 
 ## 5. Lensa Kelima — Pancasila (Sub-CPMK 1)
 
-*Bagian ini berkontribusi pada Sub-CPMK 1 (Kronologi & Etika).*
-*Kontribusi oleh: **Putri Wahyu Dwi Nur Fatimah** (NIM: 4524210080)*
-
 <!-- TODO: Silakan Putri Wahyu Dwi Nur Fatimah isi bagian Lensa Kelima - Pancasila di sini -->
 
 ---
 
 ## 6. Kode Etik Profesi (Sub-CPMK 1, 2)
-
-*Bagian ini berkontribusi pada Sub-CPMK 1 (Kronologi & Etika) & Sub-CPMK 2 (Regulasi & Kode Etik).*
-*Kontribusi oleh: **Putri Wahyu Dwi Nur Fatimah** (NIM: 4524210080)*
 
 <!-- TODO: Silakan Putri Wahyu Dwi Nur Fatimah isi bagian Kode Etik Profesi di sini -->
 
@@ -108,17 +90,11 @@ Perkembangan Generative AI memicu berbagai klaim industri yang perlu dipilah ant
 
 ## 7. Analisis Regulasi & Hukum (Sub-CPMK 2)
 
-*Bagian ini berkontribusi pada Sub-CPMK 2 (Regulasi & Kode Etik).*
-*Kontribusi oleh: **Rakha Hafidz Fauzan** (NIM: 4524210082)*
-
 <!-- TODO: Silakan Rakha Hafidz Fauzan isi bagian Analisis Regulasi & Hukum di sini -->
 
 ---
 
 ## 8. Checkpoint Integritas & Anti-Korupsi (Sub-CPMK 5)
-
-*Bagian ini berkontribusi pada Sub-CPMK 5 (Integritas & Anti-Korupsi).*
-*Kontribusi oleh: **Muhammad Fathir Alfarqi** (NIM: 4524210064)*
 
 Definisi "anti-korupsi" dalam mata kuliah Etika Profesi dimaknai luas sebagai integritas dan pencegahan penyalahgunaan wewenang. Dalam kasus lingkungan AI, pelanggaran integritas tampak pada fenomena berikut:
 
@@ -138,26 +114,17 @@ Direksi perusahaan teknologi terjebak konflik kepentingan antara tanggung jawab 
 
 ## 9. Manajemen Risiko & Opsi 4T (Sub-CPMK 4, 7)
 
-*Bagian ini berkontribusi pada Sub-CPMK 4 (Manajemen Risiko) & Sub-CPMK 7 (Opsi 4T & Kontrol Preventif).*
-*Kontribusi oleh: **Michael Zefanya Sitompul** (NIM: 4524210139)*
-
 <!-- TODO: Silakan Michael Zefanya Sitompul isi bagian Manajemen Risiko & Opsi 4T di sini -->
 
 ---
 
 ## 10. Rancangan Dampak & Kontrol Preventif (Sub-CPMK 3, 7)
 
-*Bagian ini berkontribusi pada Sub-CPMK 3 (Stakeholder & Kontrol) & Sub-CPMK 7 (Opsi 4T & Kontrol Preventif).*
-*Kontribusi oleh: **Michael Zefanya Sitompul** (NIM: 4524210139)*
-
 <!-- TODO: Silakan Michael Zefanya Sitompul isi bagian Rancangan Dampak & Kontrol Preventif di sini -->
 
 ---
 
 ## 11. Pelajaran Utama & Daftar Pustaka (Sub-CPMK 8, 9)
-
-*Bagian ini berkontribusi pada Sub-CPMK 8 (Demonstrasi/Video) & Sub-CPMK 9 (Refleksi Karier).*
-*Kontribusi oleh: **Muhammad Fathir Alfarqi** (NIM: 4524210064)*
 
 ### A. Pelajaran Utama (Key Lessons Learned)
 Investigasi terhadap jejak ekologis Generative AI memberikan kesimpulan penting bagi masa depan profesional IT:
