@@ -58,10 +58,6 @@ Perkembangan Generative AI memicu berbagai klaim industri yang perlu dipilah ant
 1. **Klaim Net-Zero melalui Pembelian REC/Offset Carbon:** Korporasi mengklaim bahwa mereka "net-zero" karena membeli *Renewable Energy Certificates* (REC). Namun, para ilmuwan lingkungan memperdebatkan keabsahan klaim ini karena pembelian REC tidak menghentikan operasional pembangkit batu bara lokal yang menyuplai listrik fisik ke data center.
 2. **Efisiensi AI di Masa Depan:** Beberapa pihak mengeklaim bahwa AI sendiri akan menemukan solusi untuk memitigasi perubahan iklim. Klaim ini dinilai spekulatif karena penghematan energi di masa depan belum sebanding dengan laju konsumsi energi saat ini.
 
-> [!NOTE]
-> **Catatan Transparansi untuk Pembaca:**
-> Data emisi yang digunakan dalam laporan ini bersumber langsung dari laporan keberlanjutan tahunan perusahaan (Microsoft & Google 2024) serta publikasi ilmiah bereputasi (*Nature* dan *MIT Technology Review*). Pembaca dapat melakukan verifikasi mandiri terhadap data konsumsi energi regional data center melalui platform transparansi energi nasional masing-masing negara penampung data center.
-
 ---
 
 ## 3. Pemetaan Pemangku Kepentingan / Stakeholders (Sub-CPMK 3)
