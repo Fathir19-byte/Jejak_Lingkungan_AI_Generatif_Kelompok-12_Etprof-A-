@@ -41,7 +41,13 @@
 
 ## 1. Kronologi & Konteks (Sub-CPMK 1)
 
-<!-- TODO: Silakan Rakha Hafidz Fauzan isi bagian Kronologi & Konteks di sini -->
+Perkembangan Generative AI (Kecerdasan Buatan Generatif) sejak akhir tahun 2022 hingga 2025 telah memicu revolusi digital global sekaligus krisis ekologis digital baru. Berikut adalah rangkaian peristiwa penting yang melatarbelakangi investigasi ini:
+
+* **November 2022 (Rilis ChatGPT):** OpenAI meluncurkan ChatGPT yang memicu adopsi massal AI. Kebutuhan komputasi bergeser secara radikal dari model prediksi sederhana ke model generatif skala besar (Large Language Models/LLM).
+* **Tahun 2023 (Ledakan Data Center):** Perusahaan raksasa teknologi seperti Microsoft, Google, dan Amazon memperluas kapasitas pusat data (*data center*) mereka secara agresif. Estimasi konsumsi daya untuk satu kueri ChatGPT mencapai 2,9 Wh—hampir 10 kali lipat dari kueri mesin pencari Google standar (0,3 Wh).
+* **Mei 2024 (Rilis Laporan Microsoft):** Microsoft mempublikasikan *Environmental Sustainability Report 2024* yang mengungkap fakta mengejutkan: emisi karbon mereka meningkat sebesar 29,1% dari baseline 2020 akibat perluasan infrastruktur AI.
+* **Juli 2024 (Rilis Laporan Google):** Google merilis *Environmental Report 2024* yang mencatat lonjakan emisi gas rumah kaca sebesar 48% dibandingkan baseline tahun 2019, terutama didorong oleh konsumsi energi pusat data yang mendukung beban kerja AI.
+* **Tahun 2025 (Krisis Air & E-Waste Nyata):** Laporan global menunjukkan bahwa pendinginan data center mengonsumsi jutaan liter air tawar per hari, menyebabkan konflik sosial dengan komunitas pertanian lokal di wilayah rawan kekeringan, serta mempercepat akumulasi limbah elektronik (*e-waste*) akibat pembaruan GPU/TPU yang sangat cepat (siklus hidup hanya 2–3 tahun).
 
 ---
 
@@ -199,7 +205,21 @@ Berdasarkan keempat teori etika, AI generatif memberikan manfaat yang signifikan
 
 ## 7. Analisis Regulasi & Hukum (Sub-CPMK 2)
 
-<!-- TODO: Silakan Rakha Hafidz Fauzan isi bagian Analisis Regulasi & Hukum di sini -->
+Pengembangan AI saat ini terikat oleh instrumen hukum nasional dan internasional:
+
+### A. Regulasi Terkait
+1. **Paris Agreement (Hukum Internasional):** Komitmen global untuk membatasi pemanasan global di bawah 1,5°C. Lonjakan emisi AI mempersulit pencapaian komitmen ini bagi negara-negara basis data center.
+2. **UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (UU PPLH - Indonesia):** Mengatur kewajiban AMDAL bagi industri skala besar. Data center yang didirikan di Indonesia harus mematuhi izin lingkungan dan pengelolaan limbah B3 (limbah elektronik).
+3. **Kebijakan Efisiensi Energi Nasional:** Aturan pembatasan kuota listrik industri di daerah padat penduduk.
+
+### B. Pemisahan Tanggung Jawab Hukum vs Tanggung Jawab Moral
+
+> [!IMPORTANT]
+> **Tanggung Jawab Hukum (*Legal Responsibility*):**
+> Bersifat wajib secara formal. Misalnya, korporasi wajib mematuhi batas emisi lokal, membayar pajak karbon (jika berlaku), dan memiliki dokumen AMDAL. Jika melanggar, mereka dapat dikenakan sanksi denda atau pembekuan izin usaha.
+> 
+> **Tanggung Jawab Moral (*Moral Responsibility*):**
+> Bersifat sukarela tetapi mengikat nurani. Misalnya, tidak melakukan trik akuntansi karbon (*greenwashing*), tidak memperebutkan pasokan air bersih dari rakyat miskin meskipun secara hukum perusahaan telah membeli hak guna air komersial, serta secara sadar memprioritaskan pengurangan emisi fisik nyata dibanding sekadar membeli sertifikat karbon di atas kertas.
 
 ---
 
