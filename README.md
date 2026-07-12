@@ -37,7 +37,7 @@
 
 ---
 
-## 1. Kronologi & Konteks (Sub-CPMK 1)
+## 1. Kronologi & Konteks 
 
 Perkembangan Generative AI (Kecerdasan Buatan Generatif) sejak akhir tahun 2022 hingga 2025 telah memicu revolusi digital global sekaligus krisis ekologis digital baru. Berikut adalah rangkaian peristiwa penting yang melatarbelakangi investigasi ini:
 
@@ -49,7 +49,7 @@ Perkembangan Generative AI (Kecerdasan Buatan Generatif) sejak akhir tahun 2022 
 
 ---
 
-## 2. Fakta Kunci & Catatan Transparansi (Sub-CPMK 3)
+## 2. Fakta Kunci & Catatan Transparansi 
 
 Perkembangan Generative AI memicu berbagai klaim industri yang perlu dipilah antara fakta terverifikasi dan informasi yang disengketakan:
 
@@ -68,7 +68,7 @@ Seluruh informasi dalam laporan ini disusun berdasarkan sumber primer dan sekund
 
 ---
 
-## 3. Pemetaan Pemangku Kepentingan / Stakeholders (Sub-CPMK 3)
+## 3. Pemetaan Pemangku Kepentingan / Stakeholders 
 
 Analisis pemangku kepentingan (*stakeholder analysis*) dilakukan untuk mengidentifikasi pihak-pihak yang terlibat maupun terdampak oleh perkembangan AI generatif, sekaligus memahami distribusi kepentingan, tingkat pengaruh (*power*), serta potensi konflik kepentingan yang muncul akibat meningkatnya kebutuhan infrastruktur komputasi AI.
 
@@ -117,7 +117,7 @@ Hubungan antar pemangku kepentingan menunjukkan adanya ketimpangan distribusi ke
 
 ---
 
-## 4. Analisis Empat Teori Etika (Sub-CPMK 1)
+## 4. Analisis Empat Teori Etika 
 
 Analisis etika dilakukan untuk mengevaluasi apakah praktik pengembangan AI generatif yang berdampak terhadap lingkungan dapat dibenarkan secara moral. Empat teori etika digunakan sebagai dasar analisis, yaitu Utilitarianisme, Deontologi, Etika Kebajikan (*Virtue Ethics*), dan Etika Hak (*Rights/Contractarian Ethics*).
 
@@ -190,7 +190,7 @@ Berdasarkan keempat teori etika, AI generatif memberikan manfaat yang signifikan
 
 ---
 
-## 5. Lensa Kelima — Pancasila (Sub-CPMK 1)
+## 5. Lensa Kelima — Pancasila 
 
 Sebagai mahasiswa Universitas Pancasila, kami menganalisis kasus ini dengan mengintegrasikan nilai luhur Pancasila dan Nilai Kepancasilaan UP:
 
@@ -214,7 +214,7 @@ Berdasarkan analisis lima sila Pancasila, pengembangan AI generatif tidak hanya 
 
 ---
 
-## 6. Kode Etik Profesi (Sub-CPMK 1, 2)
+## 6. Kode Etik Profesi 
 
 Dilema lingkungan Generative AI bersinggungan langsung dengan kode etik profesi teknologi informasi tingkat internasional dan nasional:
 
@@ -228,7 +228,7 @@ Dilema lingkungan Generative AI bersinggungan langsung dengan kode etik profesi 
 ### C. Kode Etik PII (Persatuan Insinyur Indonesia) - Sapta Dharma
 * **Sikap Ke-1 (Catur Karsa & Sapta Dharma):** Mengutamakan keselamatan, kesehatan, dan kesejahteraan masyarakat serta **kelestarian lingkungan hidup** dalam setiap keputusan rekayasa (*engineering*).
 
-## 7. Analisis Regulasi & Hukum (Sub-CPMK 2)
+## 7. Analisis Regulasi & Hukum 
 
 Pengembangan AI saat ini terikat oleh instrumen hukum nasional dan internasional:
 
@@ -252,7 +252,7 @@ Pengembangan AI saat ini terikat oleh instrumen hukum nasional dan internasional
 
 ---
 
-## 8. Checkpoint Integritas & Anti-Korupsi (Sub-CPMK 5)
+## 8. Checkpoint Integritas & Anti-Korupsi 
 
 Definisi "anti-korupsi" dalam mata kuliah Etika Profesi dimaknai luas sebagai integritas dan pencegahan penyalahgunaan wewenang. Dalam kasus lingkungan AI, pelanggaran integritas tampak pada fenomena berikut:
 
@@ -274,7 +274,7 @@ Praktik greenwashing tidak hanya menyesatkan masyarakat, tetapi juga mengurangi 
 
 ---
 
-## 9. Manajemen Risiko & Opsi 4T (Sub-CPMK 4, 7)
+## 9. Manajemen Risiko & Opsi 4T 
 
 Berdasarkan kerangka kerja manajemen risiko **ISO 31000**, berikut adalah identifikasi risiko ekologis dari operasional pusat data AI beserta opsi penanganannya:
 
@@ -310,7 +310,7 @@ Berdasarkan kerangka kerja manajemen risiko **ISO 31000**, berikut adalah identi
 
 ---
 
-## 10. Rancangan Dampak & Kontrol Preventif (Sub-CPMK 3, 7)
+## 10. Rancangan Dampak & Kontrol Preventif 
 
 Rekomendasi taktis dan strategis untuk mencegah berulangnya kerusakan ekologis akibat perkembangan AI generatif:
 
@@ -335,7 +335,7 @@ Rekomendasi taktis dan strategis untuk mencegah berulangnya kerusakan ekologis a
 | Label Karbon AI | Meningkatkan kesadaran masyarakat terhadap dampak lingkungan penggunaan AI |
 | Zonasi Data Center | Mengurangi risiko kerusakan lingkungan dan konflik sosial |
 
-## 11. Pelajaran Utama & Daftar Pustaka (Sub-CPMK 8, 9)
+## 11. Pelajaran Utama & Daftar Pustaka 
 
 ### A. Pelajaran Utama (Key Lessons Learned)
 Investigasi terhadap jejak ekologis Generative AI memberikan kesimpulan penting bagi masa depan profesional IT:
@@ -343,7 +343,7 @@ Investigasi terhadap jejak ekologis Generative AI memberikan kesimpulan penting 
 2. **Integritas di atas Citra:** Komitmen keberlanjutan menuntut aksi nyata di lapangan, bukan sekadar janji di atas kertas atau trik akuntansi karbon (*greenwashing*).
 3. **Etika Desain (Ethics by Design):** Tanggung jawab terhadap lingkungan harus diintegrasikan sejak awal perancangan sistem (*design stage*), bukan sekadar dipikirkan sebagai dampak tambahan setelah masalah terjadi.
 
-### B. Daftar Pustaka (Referensi Terverifikasi)
+### B. Daftar Pustaka 
 * Google. (2024). *Google Environmental Report 2024*. Mountain View: Google LLC. [Akses Laporan Resmi](https://sustainability.google/reports/google-2024-environmental-report/)
 * Hao, K. (2019). *Training a Single AI Model Can Emit as Much Carbon as Five Cars in Their Lifetimes*. MIT Technology Review.
 * International Energy Agency (IEA). (2023). *Electricity Market Report 2023: Data Centres and Data Transmission Networks*. Paris: IEA.
