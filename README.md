@@ -64,7 +64,7 @@ Perkembangan Generative AI memicu berbagai klaim industri yang perlu dipilah ant
 
 ### C. Catatan Transparansi
 
-Seluruh informasi dalam laporan ini disusun berdasarkan sumber primer dan sekunder yang dapat diverifikasi, seperti laporan keberlanjutan resmi Google dan Microsoft, publikasi International Energy Agency (IEA), OECD, jurnal ilmiah, serta regulasi pemerintah. Beberapa prediksi mengenai dampak jangka panjang AI terhadap lingkungan masih menjadi bahan penelitian sehingga angka konsumsi energi, emisi karbon, maupun penggunaan air dapat berubah seiring perkembangan teknologi. Oleh karena itu, pembaca disarankan merujuk pada laporan resmi terbaru untuk memperoleh data yang paling mutakhir.
+Seluruh informasi dalam laporan ini disusun berdasarkan sumber primer dan sekunder yang dapat diverifikasi, seperti laporan keberlanjutan resmi Google dan Microsoft, publikasi International Energy Agency (IEA), OECD, jurnal ilmiah, serta regulasi pemerintah. Beberapa prediksi mengenai dampak jangka panjang AI terhadap lingkungan masih menjadi bahan penelitian sehingga angka konsumsi energi, emisi karbon, maupun penggunaan air dapat berubah seiring perkembangan teknologi. 
 
 ---
 
