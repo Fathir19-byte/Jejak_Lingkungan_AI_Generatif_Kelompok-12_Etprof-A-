@@ -25,17 +25,6 @@
 
 ---
 
-## VIDEO PRESENTASI & LAMPIRAN PROYEK
-* **Tautan Langsung Video YouTube:** [Akses Video Presentasi (Unlisted)](https://youtu.be/NaXmhF5gvZk?si=OrFEo8JkKsUmR-GZ)
-* **Tautan Slide Presentasi:** [Akses Slide PPT di Canva](https://canva.link/wpsxapkqddbm5g9)
-
-<div align="center">
-	<a href="https://youtu.be/NaXmhF5gvZk?si=OrFEo8JkKsUmR-GZ" target="_blank">
-	  <img src="EnvironmentalCostOfGenerativeAi.png" alt="Video Presentasi Environmental Cost of Generative AI" width="550"/>
-	</a>
-</div>
-
----
 
 ## 1. Kronologi & Konteks 
 
