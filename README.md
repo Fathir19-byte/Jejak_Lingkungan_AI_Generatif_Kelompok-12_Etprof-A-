@@ -72,11 +72,6 @@ Seluruh informasi dalam laporan ini disusun berdasarkan sumber primer dan sekund
 
 Analisis pemangku kepentingan (*stakeholder analysis*) dilakukan untuk mengidentifikasi pihak-pihak yang terlibat maupun terdampak oleh perkembangan AI generatif, sekaligus memahami distribusi kepentingan, tingkat pengaruh (*power*), serta potensi konflik kepentingan yang muncul akibat meningkatnya kebutuhan infrastruktur komputasi AI.
 
-> [!NOTE]
-> **Tujuan Analisis Stakeholder**
->
-> Pemetaan ini bertujuan untuk mengetahui siapa yang paling diuntungkan, siapa yang paling terdampak, serta bagaimana hubungan antar pemangku kepentingan dalam pengembangan AI generatif.
-
 ### Diagram Hubungan Pemangku Kepentingan
 
 ```mermaid
