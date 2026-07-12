@@ -64,6 +64,10 @@ Perkembangan Generative AI memicu berbagai klaim industri yang perlu dipilah ant
 1. **Klaim Net-Zero melalui Pembelian REC/Offset Carbon:** Korporasi mengklaim bahwa mereka "net-zero" karena membeli *Renewable Energy Certificates* (REC). Namun, para ilmuwan lingkungan memperdebatkan keabsahan klaim ini karena pembelian REC tidak menghentikan operasional pembangkit batu bara lokal yang menyuplai listrik fisik ke data center.
 2. **Efisiensi AI di Masa Depan:** Beberapa pihak mengeklaim bahwa AI sendiri akan menemukan solusi untuk memitigasi perubahan iklim. Klaim ini dinilai spekulatif karena penghematan energi di masa depan belum sebanding dengan laju konsumsi energi saat ini.
 
+### C. Catatan Transparansi
+
+Seluruh informasi dalam laporan ini disusun berdasarkan sumber primer dan sekunder yang dapat diverifikasi, seperti laporan keberlanjutan resmi Google dan Microsoft, publikasi International Energy Agency (IEA), OECD, jurnal ilmiah, serta regulasi pemerintah. Beberapa prediksi mengenai dampak jangka panjang AI terhadap lingkungan masih menjadi bahan penelitian sehingga angka konsumsi energi, emisi karbon, maupun penggunaan air dapat berubah seiring perkembangan teknologi. Oleh karena itu, pembaca disarankan merujuk pada laporan resmi terbaru untuk memperoleh data yang paling mutakhir.
+
 ---
 
 ## 3. Pemetaan Pemangku Kepentingan / Stakeholders (Sub-CPMK 3)
@@ -114,7 +118,9 @@ Konflik kepentingan utama terjadi antara perusahaan teknologi yang berupaya memp
 
 Pemetaan stakeholder menunjukkan bahwa manfaat ekonomi dan teknologi dari AI generatif belum sepenuhnya diimbangi dengan distribusi risiko yang adil. Oleh karena itu, diperlukan kolaborasi antara perusahaan teknologi, pemerintah, masyarakat, dan komunitas internasional untuk memastikan pengembangan AI berlangsung secara bertanggung jawab dan berkelanjutan.
 
-<!-- TODO: Silakan Belvaria Hendriyani isi bagian Pemetaan Pemangku Kepentingan di sini -->
+### Analisis Relasi Kuasa
+
+Hubungan antar pemangku kepentingan menunjukkan adanya ketimpangan distribusi kekuasaan. Perusahaan teknologi memiliki pengaruh terbesar karena menguasai modal, teknologi, dan keputusan pembangunan infrastruktur AI. Pemerintah memiliki kewenangan dalam menetapkan regulasi, namun sering dihadapkan pada dilema antara menarik investasi digital dan menjaga keberlanjutan lingkungan. Sebaliknya, masyarakat lokal serta generasi mendatang merupakan pihak yang menerima dampak paling besar terhadap penggunaan air, energi, dan perubahan iklim, tetapi memiliki ruang yang relatif kecil untuk memengaruhi keputusan strategis perusahaan. Ketimpangan inilah yang menjadikan transparansi, akuntabilitas, dan partisipasi publik sebagai aspek penting dalam tata kelola AI yang berkelanjutan.
 
 ---
 
@@ -209,6 +215,10 @@ Sebagai mahasiswa Universitas Pancasila, kami menganalisis kasus ini dengan meng
 4. **Kolaboratif:** Bekerja sama antara korporasi, pemerintah, dan akademisi untuk merancang teknologi ramah lingkungan (*Green AI*).
 5. **Profesionalisme:** Profesional IT wajib mengembangkan perangkat lunak yang efisien dalam konsumsi daya (*energy-efficient computing*).
 
+### Kesimpulan Integrasi Pancasila
+
+Berdasarkan analisis lima sila Pancasila, pengembangan AI generatif tidak hanya harus mengejar kemajuan teknologi, tetapi juga memperhatikan keseimbangan antara kepentingan ekonomi, kesejahteraan masyarakat, dan kelestarian lingkungan. Nilai-nilai Kepancasilaan Universitas Pancasila menjadi landasan moral agar profesional teknologi informasi mampu menghasilkan inovasi yang bertanggung jawab, berintegritas, dan berorientasi pada keberlanjutan.
+
 ---
 
 ## 6. Kode Etik Profesi (Sub-CPMK 1, 2)
@@ -233,6 +243,10 @@ Pengembangan AI saat ini terikat oleh instrumen hukum nasional dan internasional
 1. **Paris Agreement (Hukum Internasional):** Komitmen global untuk membatasi pemanasan global di bawah 1,5°C. Lonjakan emisi AI mempersulit pencapaian komitmen ini bagi negara-negara basis data center.
 2. **UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (UU PPLH - Indonesia):** Mengatur kewajiban AMDAL bagi industri skala besar. Data center yang didirikan di Indonesia harus mematuhi izin lingkungan dan pengelolaan limbah B3 (limbah elektronik).
 3. **Kebijakan Efisiensi Energi Nasional:** Aturan pembatasan kuota listrik industri di daerah padat penduduk.
+4. **ISO 14001:2015 (Environmental Management System):**
+   Standar internasional ini mendorong organisasi untuk mengelola dampak lingkungan secara sistematis melalui penerapan sistem manajemen lingkungan yang berkelanjutan. Pusat data yang mengoperasikan infrastruktur AI sebaiknya menerapkan standar ini untuk mengurangi konsumsi energi, penggunaan air, serta limbah elektronik.
+5. **Environmental, Social, and Governance (ESG):**
+   Meskipun bukan regulasi yang mengikat secara hukum, prinsip ESG menjadi acuan global dalam menilai tanggung jawab perusahaan terhadap lingkungan, masyarakat, dan tata kelola perusahaan. Pengembangan AI yang berkelanjutan perlu memperhatikan ketiga aspek tersebut agar memperoleh kepercayaan publik dan investor.
 
 ### B. Pemisahan Tanggung Jawab Hukum vs Tanggung Jawab Moral
 
@@ -261,6 +275,10 @@ Banyak perusahaan AI mengeklaim telah mencapai net-zero karbon lewat pembelian *
 ### B. Konflik Kepentingan (*Conflict of Interest*)
 Direksi perusahaan teknologi terjebak konflik kepentingan antara tanggung jawab moral kepada bumi (mengurangi konsumsi daya) dan tanggung jawab fidusia kepada pemegang saham (meningkatkan profit dengan meluncurkan model AI secara cepat meskipun boros energi). Komitmen lingkungan dikorbankan demi memenangkan persaingan bisnis jangka pendek.
 
+### C. Dampak Pelanggaran Integritas
+
+Praktik greenwashing tidak hanya menyesatkan masyarakat, tetapi juga mengurangi kepercayaan publik terhadap komitmen keberlanjutan perusahaan. Ketika perusahaan menyampaikan informasi yang tidak mencerminkan kondisi sebenarnya, regulator berpotensi mengambil keputusan berdasarkan data yang keliru, sementara masyarakat tetap menanggung dampak lingkungan yang sesungguhnya. Oleh karena itu, transparansi informasi, audit independen, serta pelaporan keberlanjutan yang akurat menjadi bentuk integritas yang harus dijunjung tinggi oleh setiap organisasi pengembang AI.
+
 ---
 
 ## 9. Manajemen Risiko & Opsi 4T (Sub-CPMK 4, 7)
@@ -275,6 +293,15 @@ Berdasarkan kerangka kerja manajemen risiko **ISO 31000**, berikut adalah identi
 | **R2** | Overload jaringan listrik nasional/lokal yang menyebabkan pemadaman bergilir bagi warga. | Sedang | Tinggi | **Tinggi** |
 | **R3** | Penumpukan limbah keras beracun (E-waste) dari komponen server/GPU usang. | Tinggi | Sedang | **Tinggi** |
 | **R4** | Tuntutan hukum dan sanksi reputasi akibat kegagalan target net-zero emission. | Sedang | Tinggi | **Tinggi** |
+
+### Penanggung Jawab Risiko (Risk Owner)
+
+| Risiko | Risk Owner |
+|---------|------------|
+| Krisis air bersih | Perusahaan Teknologi & Pemerintah Daerah |
+| Overload listrik | Penyedia Listrik & Pemerintah |
+| Limbah elektronik | Produsen Hardware & Operator Data Center |
+| Emisi karbon | Perusahaan Teknologi |
 
 ### B. Opsi Penanganan Risiko (Kerangka Kerja 4T)
 
@@ -304,6 +331,16 @@ Rekomendasi taktis dan strategis untuk mencegah berulangnya kerusakan ekologis a
 
 ### C. Rancangan Dampak Sosial ke Masyarakat
 * **Label Karbon pada Aplikasi AI:** Menampilkan indikator estimasi emisi karbon yang dihasilkan setiap kali pengguna mengirimkan prompt di chatbot AI (seperti label kalori makanan). Hal ini akan meningkatkan kesadaran publik (*public awareness*) untuk tidak menggunakan AI secara boros atau tidak perlu.
+
+### Dampak Implementasi Kontrol Preventif
+
+| Kontrol Preventif | Dampak yang Diharapkan |
+|-------------------|------------------------|
+| Green AI | Konsumsi energi model AI menjadi lebih efisien |
+| Recycled Water | Mengurangi penggunaan air bersih untuk pendinginan data center |
+| Audit Energi | Menekan emisi karbon operasional secara berkelanjutan |
+| Label Karbon AI | Meningkatkan kesadaran masyarakat terhadap dampak lingkungan penggunaan AI |
+| Zonasi Data Center | Mengurangi risiko kerusakan lingkungan dan konflik sosial |
 
 ## 11. Pelajaran Utama & Daftar Pustaka (Sub-CPMK 8, 9)
 
